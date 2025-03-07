@@ -5,6 +5,11 @@ In this project, the data obtained displays a map of land use/land cover (LULC) 
 Each year is generated with Impact Observatory’s deep learning AI land classification model, trained using billions of human-labeled image pixels from the National Geographic Society. 
 The maps are produced by applying this model to the Sentinel-2 Level-2A image collection on Microsoft’s Planetary Computer, processing over 400,000 Earth observations per year.
 
+# [Cartography](https://github.com/sehmilo/Cartography)
+From personal explorations to client projects, my journey in GIS mapping has been a terrain of growth. 
+Each map—good, bad, and everything in between—tells a story of skill, refinement, and discovery. 
+Here’s a collection of my cartographic evolution, showcasing how my maps have transformed over time.
+
 
 # [Discharge Rate Predictor](https://github.com/sehmilo/discharge_rate_predictor)
 This a discharge rate predictor that uses static water level, lat-lon, and borehole depth to predict discharge rate (borehole yield) of a location in Northwestern Nigeria.
