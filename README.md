@@ -1,8 +1,11 @@
 This is a summary of projects using python and ArcGIS for geospatial analyses.
 Kindly click on the link to view more about the projects.
-1. [Overview](#Overview)
-2. [Land Use Analysis Abuja](#land-use-analysis-abuja)
-1. [Land Use Analysis Abuja](#Land Use Analysis Abuja)
+1. [Land Use Analysis Abuja](#land-use-analysis-abuja)
+2. [Cartography](#cartography]
+3. Discharge Rate Predictor](#discharge-rate-predictor)
+4. [GeoAI: Artificial Intelligence for Geospatial Data](#geoAI:-artificial-intelligence-for-geospatial-data)
+5. [Deep Learning for SwimmingPool Detection](#Deep-Learning-for-SwimmingPool-Detection)
+6. [Customer Segmentation in the-US](#Customer-Segmentation-in-the-US)
 
 # [Land Use Analysis Abuja](https://github.com/sehmilo/Land-Use-Analysis_Abuja)
 In this project, the data obtained displays a map of land use/land cover (LULC) derived from ESA Sentinel-2 imagery at 10m resolution. 
