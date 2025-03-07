@@ -1,5 +1,4 @@
 This is a summary of projects using python and ArcGIS for geospatial analyses.
-
 Kindly click on the link to view more about the projects.
 
 # [Land Use Analysis_Abuja](https://github.com/sehmilo/Land-Use-Analysis_Abuja)
