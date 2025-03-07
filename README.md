@@ -11,6 +11,8 @@ From personal explorations to client projects, my journey in GIS mapping has bee
 Each map—good, bad, and everything in between—tells a story of skill, refinement, and discovery. 
 Here’s a collection of my cartographic evolution, showcasing how my maps have transformed over time.
 
+Images/PopDensity_NewYork2010.jpeg
+
 
 # [Discharge Rate Predictor](https://github.com/sehmilo/discharge_rate_predictor)
 This a discharge rate predictor that uses static water level, lat-lon, and borehole depth to predict discharge rate (borehole yield) of a location in Northwestern Nigeria.
