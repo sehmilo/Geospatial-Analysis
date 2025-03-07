@@ -1,9 +1,9 @@
 This is a summary of projects using python and ArcGIS for geospatial analyses.
 Kindly click on the link to view more about the projects.
 1. [Land Use Analysis Abuja](#land-use-analysis-abuja)
-2. [Cartography](#cartography]
-3. Discharge Rate Predictor](#discharge-rate-predictor)
-4. [GeoAI: Artificial Intelligence for Geospatial Data](#geoAI:-artificial-intelligence-for-geospatial-data)
+2. [Cartography](#Cartography]
+3. Discharge Rate Predictor](#Discharge-Rate-Predictor)
+4. [GeoAI: Artificial Intelligence for Geospatial Data](#GeoAI:-Artificial-Intelligence-for-Geospatial-data)
 5. [Deep Learning for SwimmingPool Detection](#Deep-Learning-for-SwimmingPool-Detection)
 6. [Customer Segmentation in the-US](#Customer-Segmentation-in-the-US)
 
