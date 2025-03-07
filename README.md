@@ -3,7 +3,7 @@ Kindly click on the link to view more about the projects.
 1. [Land Use Analysis Abuja](#land-use-analysis-abuja)
 2. [Cartography](#Cartography)
 3. [Discharge Rate Predictor](#Discharge-Rate-Predictor)
-4. [GeoAI: Artificial Intelligence for Geospatial Data](#GeoAI:-Artificial-Intelligence-for-Geospatial-data)
+4. [GeoAI: Artificial Intelligence for Geospatial Data](#GeoAI:-Artificial-Intelligence-for-Geospatial-Data)
 5. [Deep Learning for SwimmingPool Detection](#Deep-Learning-for-SwimmingPool-Detection)
 6. [Customer Segmentation in the-US](#Customer-Segmentation-in-the-US)
 
