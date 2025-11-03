@@ -17,7 +17,7 @@ The maps are produced by applying this model to the Sentinel-2 Level-2A image co
 # [Cartography](https://github.com/sehmilo/Cartography)
 From personal explorations to client projects, my journey in GIS mapping has been a terrain of growth. 
 Each map—good, bad, and everything in between—tells a story of skill, refinement, and discovery. 
-Here’s a collection of my cartographic evolution, showcasing how my maps have transformed over time.
+Here’s a collection of my cartographic evolution, showcasing how my maps have transformed over time. [Click the to view more](https://github.com/sehmilo/Cartography)
 
 ![Population Density Map of New York 2010](Images/PopDensity_NewYork2010.jpeg)
 
