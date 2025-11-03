@@ -8,9 +8,9 @@ Kindly click on the link to view more about the projects.
 6. [Customer Segmentation in the-US](#Customer-Segmentation-in-the-US)
 
 # [Land Use Analysis Abuja](https://github.com/sehmilo/Land-Use-Analysis_Abuja)
-In this project, the data obtained displays a map of land use/land cover (LULC) derived from ESA Sentinel-2 imagery at 10m resolution. 
+In this project, we used the land use/land cover (LULC) of Abuja, Nigeria derived from ESA Sentinel-2 imagery at 10m resolution to analyse how the city has grown from 2020 to 2024 
 Each year is generated with Impact Observatory’s deep learning AI land classification model, trained using billions of human-labeled image pixels from the National Geographic Society. 
-The maps are produced by applying this model to the Sentinel-2 Level-2A image collection on Microsoft’s Planetary Computer, processing over 400,000 Earth observations per year.
+[Click to learn more](https://github.com/sehmilo/Land-Use-Analysis_Abuja)
 
 ![2022 Land Use Land Cover Map of FCT Abuja, Nigeria](Images/FCT2022.png)
 
